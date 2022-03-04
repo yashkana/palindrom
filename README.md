@@ -76,3 +76,7 @@ public class factorialexample<br>
 
 OUTPUT:
 ![Screenshot 2022-03-04 102202](https://user-images.githubusercontent.com/98301023/156701634-da4a9cd9-09c8-4fd4-a9ff-a86d2cf302b8.png)
+
+
+
+
